@@ -64,7 +64,7 @@ Python, Pandas, Scikit-learn
 
 ## 🐧 Linux Journey
 
-**Learning in Fedora ![Fedora](https://img.shields.io/badge/Linux-Fedora-294172?logo=fedora) :**
+**Learning in Fedora**
 - Filesystem
 - Bash tools
 - dnf package management
@@ -73,5 +73,3 @@ Python, Pandas, Scikit-learn
 </td>
 </tr>
 </table>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-jha-888)
