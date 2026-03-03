@@ -1,19 +1,48 @@
 # Hi, I'm Yash 👋
 
-CS Student | Learning ML & Algo Trading
+CS Student | Learning ML & Algo Trading | Exploring Linux
 
-## Tech
+## ⚙️ Tech Stack
+
+Languages:
 - Python
 - C/C++
-- Pandas / NumPy / Matplotlib
-- Scikit-learn
-- Git
 
-## Projects
-- ML Backtester
-- Algo Trading Experiments
+Libraries:
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+
+Tools:
+- Git
+- Linux (Fedora)
+- VS Code
+
+## 📂 Projects
+
+### Algorithmic Trading Backtester
+Python system for testing trading strategies against historical market data.
+
+Features:
+- Moving Average strategy
+- Logistic Regression model
+- Strategy performance comparison
+
+Tools used:
+Python, Pandas, Scikit-learn
 
 ## Currently Learning
 - Machine Learning
-- Data Structures
-- Quantitative Finance
+- Linux system fundamentals
+- Data Structures & Algorithms in C
+
+## 🐧 Linux Journey
+
+Recently switched to Fedora.
+
+Learning:
+- Linux filesystem
+- Bash and shell tools
+- Package management (dnf)
+- Development workflow in Linux
