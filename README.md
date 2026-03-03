@@ -6,6 +6,7 @@ CS Student | Learning ML & Algo Trading
 - Python
 - C/C++
 - Pandas / NumPy / Matplotlib
+- Scikit-learn
 - Git
 
 ## Projects
