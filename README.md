@@ -1,6 +1,6 @@
 # Hi, I'm Yash 👋
 
-CS Student | Learning ML & Algo Trading | Exploring Linux
+CS Student | ML & Algorithmic Trading | Linux Explorer
 
 ## ⚙️ Tech Stack
 
@@ -48,17 +48,30 @@ Features:
 Tools used:
 Python, Pandas, Scikit-learn
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 ## Currently Learning
-- Machine Learning
-- Linux system fundamentals
-- Data Structures & Algorithms in C
+
+- Machine Learning  
+- Linux system fundamentals  
+- Data Structures & Algorithms in C  
+
+</td>
+
+<td valign="top" width="50%">
 
 ## 🐧 Linux Journey
 
-Recently switched to Fedora.
+**Learning in Fedora ![Fedora](https://img.shields.io/badge/Linux-Fedora-294172?logo=fedora) :**
+- Filesystem
+- Bash tools
+- dnf package management
+- Dev workflow
 
-Learning:
-- Linux filesystem
-- Bash and shell tools
-- Package management (dnf)
-- Development workflow in Linux
+</td>
+</tr>
+</table>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-jha-888)
