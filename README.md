@@ -4,20 +4,36 @@ CS Student | Learning ML & Algo Trading | Exploring Linux
 
 ## ⚙️ Tech Stack
 
-Languages:
-- Python
-- C/C++
+<table>
+<tr>
+<td valign="top">
 
-Libraries:
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn
+**Languages**
+- Python  
+- C / C++
 
-Tools:
-- Git
-- Linux (Fedora)
-- VS Code
+</td>
+
+<td valign="top">
+
+**Libraries**
+- NumPy  
+- Pandas  
+- Matplotlib  
+- Scikit-learn  
+
+</td>
+
+<td valign="top">
+
+**Tools**
+- Git  
+- Linux (Fedora)  
+- VS Code  
+
+</td>
+</tr>
+</table>
 
 ## 📂 Projects
 
