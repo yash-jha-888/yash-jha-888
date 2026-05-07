@@ -28,7 +28,7 @@ CS Student | ML & Algorithmic Trading | Linux Explorer
 
 **Tools**
 - Git  
-- Linux (Fedora)  
+- Linux (Fedora/CachyOS)  
 - VS Code  
 
 </td>
@@ -64,11 +64,13 @@ Python, Pandas, Scikit-learn
 
 ## 🐧 Linux Journey
 
-**Learning in Fedora**
-- Filesystem
-- Bash tools
-- dnf package management
-- Dev workflow
+- Linux customization and workflow optimization
+- Package management and system maintenance
+- Terminal-based development workflows
+- Shell tooling and scripting
+- Hyprland configuration
+- Debugging system and desktop issues
+- Performance-focused Linux environments
 
 </td>
 </tr>
