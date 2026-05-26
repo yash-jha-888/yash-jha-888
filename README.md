@@ -20,7 +20,8 @@ CS Student | ML & Algorithmic Trading | Linux Explorer
 - NumPy  
 - Pandas  
 - Matplotlib  
-- Scikit-learn  
+- Scikit-learn
+- FastAPI
 
 </td>
 
@@ -28,7 +29,7 @@ CS Student | ML & Algorithmic Trading | Linux Explorer
 
 **Tools**
 - Git  
-- Linux (Fedora/CachyOS)  
+- Arch Linux  
 - VS Code  
 
 </td>
