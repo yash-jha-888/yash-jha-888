@@ -1,6 +1,6 @@
-# Hi, I'm Yash 👋
+# Hey, there, I'm Yash.
 
-CS Student | ML & Algorithmic Trading | Linux Explorer
+CS Student | ML & Algorithmic Trading | Linux Tinkerer
 
 ## ⚙️ Tech Stack
 
@@ -22,6 +22,8 @@ CS Student | ML & Algorithmic Trading | Linux Explorer
 - Matplotlib  
 - Scikit-learn
 - FastAPI
+- boto3
+- Langgraph
 
 </td>
 
@@ -30,13 +32,14 @@ CS Student | ML & Algorithmic Trading | Linux Explorer
 **Tools**
 - Git  
 - Arch Linux  
-- VS Code  
+- VS Code
+- Docker
 
 </td>
 </tr>
 </table>
 
-## 📂 Projects
+##  Projects
 
 ### Algorithmic Trading Backtester
 Python system for testing trading strategies against historical market data.
