@@ -1,6 +1,8 @@
-# Hey, there, I'm Yash.
+# Hey, I'm Yash.
 
-CS Student | ML & Algorithmic Trading | Linux Tinkerer
+CS student building ML systems from first principles — currently working through what's underneath the tools everyone else treats as black boxes.
+
+CS Student | Deep Learning & Systems | Algorithmic Trading | Linux
 
 ## ⚙️ Tech Stack
 
@@ -9,72 +11,71 @@ CS Student | ML & Algorithmic Trading | Linux Tinkerer
 <td valign="top">
 
 **Languages**
-- Python  
+- Python
 - C / C++
 
 </td>
-
 <td valign="top">
 
-**Libraries**
-- NumPy  
-- Pandas  
-- Matplotlib  
+**ML & Data**
+- NumPy
+- Pandas
 - Scikit-learn
-- FastAPI
-- boto3
-- Langgraph
+- Eigen
+- LangGraph
 
 </td>
-
 <td valign="top">
 
-**Tools**
-- Git  
-- Arch Linux  
-- VS Code
+**Backend & Tools**
+- FastAPI
+- boto3 / AWS Bedrock
 - Docker
+- Git
+- Arch Linux (Hyprland)
 
 </td>
 </tr>
 </table>
 
-##  Projects
+## 🚀 Projects
+
+### Aurelius — Deep Learning Framework from Scratch
+A neural network framework built entirely by hand in modern C++ — no PyTorch, no autograd, no ML libraries. Just Eigen and the chain rule.
+
+- Manual forward propagation and backpropagation, **verified against numerical gradients**
+- Softmax + cross-entropy with numerical stability handling
+- Configurable architectures, mini-batch SGD, early stopping
+- **94.45% test accuracy on MNIST** — every line hand-written and understood
+
+`C++` · `Eigen` · `CMake`
 
 ### Algorithmic Trading Backtester
-Python system for testing trading strategies against historical market data.
+Python system for testing trading strategies against historical market data, comparing rule-based signals with ML models.
 
-Features:
-- Moving Average strategy
-- Logistic Regression model
-- Strategy performance comparison
+- Moving-average and logistic-regression strategies
+- Measured performance: ML strategy Sharpe 0.99, max drawdown −34.7% vs. buy-and-hold −60.9%
 
-Tools used:
-Python, Pandas, Scikit-learn
+`Python` · `Pandas` · `Scikit-learn`
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-## Currently Learning
+## 🔭 Currently Building
 
-- Machine Learning  
-- Linux system fundamentals  
-- Data Structures & Algorithms in C  
+- Aurelius v0.3 — Adam optimizer, He initialization, regularization
+- Deeper C++ / systems fundamentals
+- DSA in C
 
 </td>
-
 <td valign="top" width="50%">
 
-## 🐧 Linux Journey
+## 🐧 Linux
 
-- Linux customization and workflow optimization
-- Package management and system maintenance
-- Terminal-based development workflows
-- Shell tooling and scripting
-- Hyprland configuration
-- Debugging system and desktop issues
-- Performance-focused Linux environments
+- Arch + Hyprland, terminal-first workflow
+- Package management, system tuning, shell tooling
+- Performance-focused dev environment
 
 </td>
 </tr>
