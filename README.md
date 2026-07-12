@@ -45,8 +45,8 @@ Python system for testing trading strategies against historical market data, com
 ## Also working on
 
 - Deeper C++ and systems fundamentals · CUDA next
-- DSA in C
-- [Momentum](https://github.com/yash-jha-888/Momentum) — a habit tracker in Flutter, because not everything has to be a gradient
+- DSA in C++ and Python
+- Momentum— a habit tracker in Flutter, because not everything has to be a gradient
 
 ---
 
