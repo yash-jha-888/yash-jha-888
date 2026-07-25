@@ -2,7 +2,7 @@
 
 CS student building ML systems from first principles — currently working through what's underneath the tools everyone else treats as black boxes.
 
-CSE @ Manipal University Jaipur · ML Engineering Intern @ Nippon India Mutual Fund · Head of AI/ML, IEEE RAS MUJ
+CSE @ Manipal University Jaipur · Ex-Intern @ Nippon India Mutual Fund · Head of AI/ML, IEEE RAS MUJ
 
 ---
 
@@ -25,9 +25,9 @@ A neural network framework built entirely by hand in modern C++ — no PyTorch, 
 
 Built and shipped internally (code is proprietary):
 
-- **A company-wide tool-calling agent** for Outlook and Teams automation — Microsoft Graph API, OAuth2, Claude on AWS Bedrock via boto3.
+- **A company-wide tool-calling agent** for Outlook and Teams automation — Microsoft Graph API, OAuth2, Frontier Models on AWS Bedrock.
 - **A multi-agent investment research pipeline** in LangGraph — a ReAct orchestrator coordinating market-data, news, and writer agents.
-- **A KYC document analysis system** with a cost-tiered multi-model architecture (Haiku for extraction, Sonnet for reasoning), designed for 150,000+ forms per month.
+- **A KYC document analysis system** with a cost-tiered multi-model architecture (lower-tiered models for extraction, higher-tiered models for reasoning), designed for extremely high volumes of forms per month.
 
 ---
 
@@ -46,7 +46,7 @@ Python system for testing trading strategies against historical market data, com
 
 - Deeper C++ and systems fundamentals · CUDA next
 - DSA in C++ and Python
-- Momentum— a habit tracker in Flutter, because not everything has to be a gradient
+- Momentum— a growth visualizer in Flutter, because not everything has to be a gradient
 
 ---
 
