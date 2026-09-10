@@ -1,8 +1,8 @@
 # Hey, I'm Yash.
 
-CS student building ML systems from first principles — currently working through what's underneath the tools everyone else treats as black boxes.
+Building ML systems from first principles, currently working through what's underneath the tools everyone else treats as black boxes.
 
-CSE @ Manipal University Jaipur · Ex-Intern @ Nippon India Mutual Fund · Head of AI/ML, IEEE RAS MUJ
+CSE @ Manipal University · Head of AI/ML, IEEE RAS MUJ · Ex-Intern @ Nippon India Mutual Fund 
 
 ---
 
